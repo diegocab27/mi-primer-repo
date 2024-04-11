@@ -7,6 +7,7 @@ En este proyecto se logra
 ## **ÍNDICE**
 * [1. Planteamiento](#Planteamiento)
 * [2. Requerimientos](#Requerimientos)
+* [3. Solución explicada paso a paso](#Solución-explicada-paso-a-paso)
 
 
 
