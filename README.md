@@ -7,6 +7,7 @@ En este proyecto se logra
 ## Indice
 * [1. Planteamiento](https://github.com/diegocab27/mi-primer-repo/edit/main/README.md#planteamiento)
 * [2. Requerimientos](https://github.com/diegocab27/mi-primer-repo/edit/main/README.md#requerimientos)
+* [3. Solución explicada paso a paso](https://github.com/diegocab27/mi-primer-repo/edit/main/README.md#soluci%C3%B3n-explicada-paso-a-paso)
 
 
 
