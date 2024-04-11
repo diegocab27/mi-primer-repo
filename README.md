@@ -5,7 +5,8 @@
 
 En este proyecto se logra
 ## **ÍNDICE**
-* [1. Planteamiento](##Planteamiento)
+* [1. Planteamiento](#Planteamiento)
+* [2. Requerimientos](#Requerimientos)
 
 
 
