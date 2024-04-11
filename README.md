@@ -1,3 +1,3 @@
-![Banner](./../images/banner.png)
+![Banner](./../banner.png)
 
 # Proyecto control de costos
